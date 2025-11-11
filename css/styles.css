@@ -28,6 +28,10 @@
   --main-blue-1: #086AD8;
 }
 
+.mainSection{
+  margin-top: -100px !important;
+}
+
 video::-webkit-media-controls-start-playback-button {
   display: none !important;
 }
