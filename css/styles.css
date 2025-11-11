@@ -28,6 +28,10 @@
   --main-blue-1: #086AD8;
 }
 
+video::-webkit-media-controls {
+    display:none !important;
+}
+
 /*---------- Reset css styles ----------- */
 title html,
 body,
